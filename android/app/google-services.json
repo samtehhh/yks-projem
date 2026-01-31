@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163443367662",
+    "firebase_url": "https://yks-takip-2025-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "yks-takip-2025",
+    "storage_bucket": "yks-takip-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163443367662:android:93848159a67e9399a91dff",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163443367662-uug7susrs6fncv4c7kiatgqgtg12fmls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "b508ea81f5a9541afcb29f39935b3538e0ca60ba"
+          }
+        },
+        {
+          "client_id": "163443367662-kkpuc711pt7gmmfv4gnfiq82vrtqbq8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzkm7-1Lgl0-YjegGYfRgT-NWVlRI4Ak0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163443367662-kkpuc711pt7gmmfv4gnfiq82vrtqbq8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

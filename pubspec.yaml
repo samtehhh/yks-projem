@@ -1,0 +1,46 @@
+name: flutter_application_1
+description: "YKS Takip Projesi"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # Çakışmayı çözen ana kısım burası (Sürüm yükseltildi)
+  intl: ^0.20.0 
+
+  # Firebase Paketleri
+  firebase_core: ^3.13.0 
+  firebase_auth: ^5.7.0
+  firebase_database: ^11.3.10
+  google_sign_in: ^6.2.1  
+
+  # Diğer Paketler
+  table_calendar: ^3.0.9
+  percent_indicator: ^4.2.3
+  audioplayers: ^6.5.1
+  cupertino_icons: ^1.0.8
+  home_widget: ^0.8.1
+  firebase_storage: ^12.4.10
+  image_picker: ^1.2.1
+  uuid: ^4.5.2
+  google_fonts: ^8.0.0
+  flutter_animate: ^4.5.2
+  fl_chart: ^1.1.1
+  phosphor_flutter: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - android/assets/sounds/uyari.mp3
